@@ -21,7 +21,7 @@ while True:
     else:
         print("Invalid, Try Again!")
 
-max_score = 20
+max_score = 50
 players_list = [0 for _ in range(players)]
 
 while max(players_list) < max_score:
